@@ -1,141 +1,200 @@
 <div align="center">
 
-SARAN S
+Saran S
 
-AI & Data Science • Full-Stack Engineering • Intelligent Systems
+Artificial Intelligence & Data Science · Software Engineering
 
-<a href="https://profileofsaran.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/saranshankar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:saransk112006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/saranshankar">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://profileofsaran.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saranshankar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saransk112006@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-saransk112006%40gmail.com-E11D48?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=19&duration=2800&pause=850&color=0F766E&center=true&vCenter=true&width=900&lines=I+build+AI-powered+software+systems;Machine+Learning+%7C+LLMs+%7C+Data+Science;Full-Stack+Development+%7C+Backend+Engineering;From+problem+statement+to+working+product" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI-powered+software+systems;Machine+Learning+%7C+LLMs+%7C+Data+Science;Full-Stack+Development+%7C+Backend+Engineering;Turning+ideas+into+practical+products" alt="Typing animation" />
+<br/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=saranshankar&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=saranshankar&label=PROFILE%20VIEWS&color=0F766E&style=flat-square" />
 <img src="https://img.shields.io/github/followers/saranshankar?label=FOLLOWERS&style=flat-square&color=2563EB" />
-<img src="https://img.shields.io/github/stars/saranshankar?label=STARS&style=flat-square&color=6D28D9" />
+<img src="https://img.shields.io/github/stars/saranshankar?label=STARS&style=flat-square&color=F59E0B" />
 
 </div>
 
-👨‍💻 About Me
-
-I'm Saran S, a B.Tech student specializing in Artificial Intelligence and Data Science at Karpagam College of Engineering.
-
-I build software at the intersection of AI, data, backend systems, and modern web applications. My work ranges from LLM and RAG systems to predictive analytics, computer vision, intelligent automation, and full-stack products.
-
-I enjoy taking a problem from idea → architecture → implementation → deployment, with an emphasis on practical engineering rather than isolated experiments.
-
-Currently exploring: LLM applications, RAG, AI agents, predictive analytics, vector search, MLOps, Edge AI, and intelligent product engineering.
-
-⚡ What I Work With
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-Artificial Intelligence
+Hello, I'm Saran.
 
-Machine Learning
+I'm a B.Tech student in Artificial Intelligence & Data Science at Karpagam College of Engineering, interested in building practical intelligent systems.
 
-Deep Learning
+My work sits between AI/ML, data, backend engineering and modern full-stack development. I like turning technical ideas into usable products — whether that means an LLM application, predictive analytics platform, healthcare companion, or intelligent real-time system.
 
-NLP & Transformers
+I care about:
 
-LLM Applications
-
-RAG & Semantic Search
-
-Vector Databases
-
-Computer Vision
-
-Predictive Analytics
+Clean Architecture · Practical AI · Data-Driven Products · Continuous Learning
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-Software Engineering
+At a glance
 
-Full-Stack Development
+Education
+B.Tech — AI & Data Science
 
-REST APIs
+Primary focus
+AI / ML + Software Engineering
 
-Backend Architecture
+Based in
+Tamil Nadu, India
 
-Data Engineering
+Open to
+AI/ML · Data Science · Software
 
-Database Design
-
-Docker & Containers
-
-Git & GitHub
-
-Data Visualization
+Portfolio
+profileofsaran.netlify.app
 
 </td>
 </tr>
 </table>
 
-🧰 Technology Stack
+✦ What I Build
 
-Languages
+<table>
+<tr>
+<td align="center" width="25%">
+
+AI / ML
+
+Machine Learning
+Deep Learning
+NLP
+Computer Vision
+
+</td>
+<td align="center" width="25%">
+
+LLM Systems
+
+RAG
+Embeddings
+Vector Search
+AI Agents
+
+</td>
+<td align="center" width="25%">
+
+Software
+
+React
+FastAPI
+Flutter
+REST APIs
+
+</td>
+<td align="center" width="25%">
+
+Data
+
+Analytics
+Forecasting
+Visualization
+BI
+
+</td>
+</tr>
+</table>
+
+🛠 Engineering Stack
+
+Core Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,dart" />
 </p>
 
-Frontend & Mobile
+Application Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,fastapi,nodejs" />
 </p>
 
-Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,sqlite,redis" />
-</p>
-
-AI / ML & Data
+Data, AI & Search
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 </p>
 
-Pandas · NumPy · Matplotlib · Seaborn · XGBoost · LightGBM · Statsmodels
+Pandas NumPy Matplotlib Seaborn XGBoost LightGBM Statsmodels
 
-LangChain · Hugging Face · Sentence Transformers · Chroma · FAISS · Qdrant
+LangChain Hugging Face Sentence Transformers Chroma FAISS Qdrant
 
-DevOps & Tools
+Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,kafka" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,kafka,git,github,linux,vscode" />
 </p>
 
-Docker Compose · Alembic · Celery · Uvicorn · Power BI · Google Colab · Vercel
+Docker Compose Alembic Celery Uvicorn Power BI Google Colab Vercel
 
-🚀 Selected Projects
+🧠 AI / ML Focus
 
-<details open>
-<summary><strong>01 · MediTrack — Personal Health Companion</strong></summary>
+Area
 
-A digital health companion focused on personal health tracking and medication management.
+What I work with
 
-Highlights
+Machine Learning
 
-Daily vital tracking
+Classification, regression, feature engineering, evaluation
+
+Deep Learning
+
+Neural networks, computer vision, sequence models
+
+NLP
+
+Transformers, embeddings, semantic search, text classification
+
+LLM Engineering
+
+RAG, local LLMs, prompt workflows, knowledge retrieval
+
+Generative AI
+
+AI assistants, synthetic data, intelligent automation
+
+Predictive Analytics
+
+Forecasting, regression and business intelligence
+
+Vector Search
+
+Qdrant, FAISS, Chroma and embedding pipelines
+
+Deployment
+
+APIs, Docker, model integration and application serving
+
+🚀 Featured Work
+
+01 · MediTrack
+
+<details>
+<summary><strong>Personal Health Companion · Offline-first HealthTech</strong></summary>
+
+<br/>
+
+A digital health companion designed for personal health tracking and medication management.
+
+Product capabilities
+
+Daily vital logging
 
 Medication reminders
 
@@ -149,24 +208,36 @@ Health trend visualization
 
 PDF health reports
 
-Offline-first architecture
+SOS functionality
 
-Stack: Flutter Dart Riverpod Drift FastAPI PostgreSQL Celery Redis
+Offline-first workflow
 
-Repository: MediTrack
+Architecture
+
+Flutter → Riverpod → Drift SQLite → FastAPI → PostgreSQL
+
+Celery · Redis · Alembic · Local Notifications
+
+Repository: github.com/gunavathibaskaran170/MediTrack
 
 </details>
 
+02 · ForecastAI Studio
+
 <details>
-<summary><strong>02 · ForecastAI Studio — E-commerce Revenue Forecasting</strong></summary>
+<summary><strong>Probabilistic Revenue Forecasting · E-commerce Intelligence</strong></summary>
 
-An AI-powered analytics platform for probabilistic revenue forecasting and marketing intelligence.
+<br/>
 
-Highlights
+An AI-powered analytics platform connecting marketing data with predictive revenue forecasting.
+
+Product capabilities
 
 Revenue forecasting
 
 Campaign analytics
+
+Marketing performance analysis
 
 Predictive modeling
 
@@ -174,22 +245,30 @@ Interactive dashboards
 
 Business-oriented insights
 
-Stack: React TypeScript Tailwind FastAPI XGBoost LightGBM Statsmodels Pandas
+Stack
+
+React · Vite · TypeScript · Tailwind CSS · Framer Motion
+
+FastAPI · Pandas · NumPy · XGBoost · LightGBM · Statsmodels
 
 </details>
 
+03 · GuardRail Lab
+
 <details>
-<summary><strong>03 · GuardRail Lab — LLM Guardrail Research</strong></summary>
+<summary><strong>LLM Guardrail Research · Adversarial Evaluation</strong></summary>
 
-A research project focused on adversarial evasion and hardening of open-source LLM prompt-injection classifiers.
+<br/>
 
-Highlights
+A research-oriented system focused on evaluating and hardening open-source prompt-injection classifiers.
+
+Research areas
 
 Prompt-injection detection
 
 Adversarial text perturbation
 
-Dataset pipeline
+Dataset pipeline design
 
 Guardrail evaluation
 
@@ -197,57 +276,53 @@ Automated testing
 
 Research integrity validation
 
-Stack: DeBERTa DistilBERT JailbreakBench Pytest Python
+Stack
+
+DeBERTa · DistilBERT · JailbreakBench · Python · Pytest
 
 </details>
+
+04 · ZipRide
 
 <details>
-<summary><strong>04 · ZipRide — Intelligent Ride Booking Platform</strong></summary>
+<summary><strong>Intelligent Ride Booking · Routing + AI Fare Engine</strong></summary>
 
-An enterprise-oriented ride-booking platform combining routing, intelligent fare estimation, caching, and payments.
+<br/>
 
-Highlights
+An enterprise-oriented ride-booking platform combining maps, routing, intelligent fare estimation, caching and payments.
 
-Ride booking
+Core systems
 
-Geospatial routing
+OpenStreetMap · Nominatim · OSRM · Redis · Razorpay
 
-AI fare engine
+Engineering focus
 
-Redis caching
-
-Payment integration
-
-Stack: OpenStreetMap Nominatim OSRM Redis Razorpay
+Geospatial workflows · Route calculation · AI fare estimation · Caching · Payments
 
 </details>
+
+05 · Placement Intelligence
 
 <details>
-<summary><strong>05 · Placement Intelligence — LLM & Semantic Search</strong></summary>
+<summary><strong>LLM + Vector Search · Interview Preparation</strong></summary>
 
-An AI-powered placement assistant designed around company information retrieval and interview-question search.
+<br/>
 
-Highlights
+An AI-powered placement assistant designed to retrieve company information and interview questions through semantic search.
 
-Semantic search
+Core systems
 
-Company knowledge retrieval
+Qdrant · Sentence Transformers · LangChain · Docker · Poetry
 
-Interview-question retrieval
+Focus
 
-Embedding-based search
-
-Vector database integration
-
-LLM-powered responses
-
-Stack: Qdrant Sentence Transformers LangChain Docker Poetry
+Semantic retrieval · Embeddings · Company knowledge · Interview-question search · LLM responses
 
 </details>
 
-🏆 Experience & Technical Highlights
+💼 Experience
 
-Data Science & Analytics Intern — Enginow
+Data Science & Analytics Intern · Enginow
 
 2026
 
@@ -255,21 +330,56 @@ Worked on data-oriented and AI-focused problem solving, analytics workflows, mac
 
 Python Data Science Machine Learning Analytics
 
-Hackathons & Technical Initiatives
+🏆 Hackathons & Technical Initiatives
 
-Enginow Hackathon · DevFusion 3.0 · NVIDIA + GNANI.ai + OpenACC · Agents League
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Samsung Solve for Tomorrow · Tata Technologies InnoVent · Quantum ML · AI Research
+AI & Software
 
-Selected technical themes: LLM Systems Edge AI Predictive Maintenance Synthetic Data Computer Vision Quantum ML
+Enginow Hackathon
 
-📊 GitHub Analytics
+DevFusion 3.0
+
+NVIDIA + GNANI.ai + OpenACC
+
+Agents League
+
+Samsung Solve for Tomorrow
+
+</td>
+<td width="50%" valign="top">
+
+Specialized AI
+
+Tata Technologies InnoVent
+
+Edge AI
+
+Predictive Maintenance
+
+Quantum ML
+
+Synthetic Data
+
+Computer Vision
+
+</td>
+</tr>
+</table>
+
+Selected recognition
+
+Team Cortexio · Top 3 — Enginow Hackathon Round 1
+
+📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saranshankar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saranshankar&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F766E&icon_color=F59E0B&text_color=334155&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshankar&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshankar&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F766E&text_color=334155&langs_count=8" />
 
 </div>
 
@@ -277,29 +387,21 @@ Selected technical themes: LLM Systems Edge AI Predictive Maintenance Synthetic 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=saranshankar&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%" />
+<img src="https://streak-stats.demolab.com?user=saranshankar&theme=default&hide_border=true&background=FFFFFF&ring=0F766E&fire=F59E0B&currStreakLabel=0F766E" width="70%" />
 
 </div>
 
-🏅 GitHub Trophies
+📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saranshankar&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saranshankar&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saranshankar&bg_color=FFFFFF&color=334155&line=0F766E&point=F59E0B&area=true&hide_border=true" width="100%" />
 
 </div>
 
 🎯 Current Focus
 
-profile:
+identity:
   name: "Saran S"
   field: "Artificial Intelligence & Data Science"
 
@@ -334,44 +436,48 @@ open_to:
 
 <div align="center">
 
-Explore my work, projects and professional profile
-
 <a href="https://profileofsaran.netlify.app/">
-<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-profileofsaran.netlify.app-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-0F766E?style=for-the-badge&logo=netlify&logoColor=white" />
+
 </a>
 
 <br/><br/>
 
-<a href="https://profileofsaran.netlify.app/">
-<strong>profileofsaran.netlify.app</strong>
-</a>
+profileofsaran.netlify.app
+
+<br/>
+
+Projects · Skills · Experience · Achievements · Contact
 
 </div>
 
-🤝 Connect
+🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://profileofsaran.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/saranshankar/">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:saransk112006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/saranshankar">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-Build. Learn. Experiment. Ship.
+Build with curiosity. Engineer with purpose. Keep learning.
 
-<sub>Artificial Intelligence • Data Science • Software Engineering</sub>
+<sub>AI · Data · Software · Research</sub>
 
 </div>
 
