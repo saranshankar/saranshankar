@@ -63,9 +63,6 @@ Tamil Nadu, India
 Interests
 LLMs · RAG · AI Agents · Data
 
-Portfolio
-Visit →
-
 Open to
 Internships · Research · Collaboration
 
@@ -402,24 +399,7 @@ Docker Compose · Alembic · Celery · Uvicorn · Power BI · Google Colab · Ve
 💼 Experience
 
 <table>
-<tr>
-<td width="15%" align="center">
 
-2026
-
-</td>
-<td width="85%">
-
-Data Science & Analytics Intern
-
-Enginow
-
-Worked on data-oriented and AI-focused problem solving, analytics workflows, machine learning, and technical project development.
-
-Focus: Python · Data Science · Machine Learning · Analytics
-
-</td>
-</tr>
 </table>
 
 🏆 Hackathons & Technical Initiatives
@@ -430,7 +410,7 @@ Focus: Python · Data Science · Machine Learning · Analytics
 
 ◈ AI & Software
 
-Enginow Hackathon
+Tata Technologies InnoVent
 
 DevFusion 3.0
 
@@ -445,8 +425,6 @@ Samsung Solve for Tomorrow
 <td width="50%" valign="top">
 
 ◈ Specialized AI
-
-Tata Technologies InnoVent
 
 Edge AI
 
